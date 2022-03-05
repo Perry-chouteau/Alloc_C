@@ -1,0 +1,9 @@
+.vscode
+bootstrap/
+sbrk.c
+a.out
+*.o
+*.so
+main.c
+lib.c
+test/
